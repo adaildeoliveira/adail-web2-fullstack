@@ -1,0 +1,17 @@
+Iniciar o front-end
+
+Mantenha o back-end em execução e abra outro terminal na raiz do projeto.
+Entre na pasta do front-end:
+
+cd src/main/frontend
+
+Na primeira execução, instale as dependências:
+
+npm ci
+
+Inicie o servidor de desenvolvimento:
+
+npm run dev
+
+Acesse http://localhost:5173 no navegador.
+Para encerrar, pressione Ctrl+C no terminal.
