@@ -15,7 +15,7 @@ Java 21, Spring Boot, Maven Wrapper, Spring Data JPA, Spring Security e H2 no ba
 
 ## Executar o back-end
 
-Com Java instalado, abra um terminal na raiz do projeto:
+Com Java 21 instalado, abra um terminal na raiz do projeto:
 
 ```powershell
 .\mvnw.cmd spring-boot:run
@@ -25,7 +25,7 @@ O Maven Wrapper baixa as dependências necessárias. A API fica em `http://local
 
 ## Executar o front-end
 
-Com Node.js 24 e npm instalados, mantenha o back-end em execução e abra outro terminal na raiz do projeto:
+Com Node.js 20.19+ (linha 20) ou 22.12+ e npm instalados, mantenha o back-end em execução e abra outro terminal na raiz do projeto:
 
 ```sh
 cd src/main/frontend
