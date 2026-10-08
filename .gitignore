@@ -1,0 +1,31 @@
+# Builds e dependências locais
+/target/
+/.maven-cache/
+/.npm-cache/
+node_modules/
+dist/
+
+# Banco H2 local
+*.mv.db
+*.trace.db
+*.lock.db
+
+# IDEs e sistema operacional
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+.DS_Store
+Thumbs.db
+
+# Logs, temporários e notas locais
+*.log
+*.tmp
+*.temp
+*.tsbuildinfo
+/.local-notes/
+.env
+.env.*
+!.env.example

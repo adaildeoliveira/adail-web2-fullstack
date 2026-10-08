@@ -1,0 +1,7 @@
+package br.ueg.trindade.helpdesk.exception;
+
+public class RecursoNaoEncontradoException extends RuntimeException {
+    public RecursoNaoEncontradoException(String mensagem) {
+        super(mensagem);
+    }
+}
