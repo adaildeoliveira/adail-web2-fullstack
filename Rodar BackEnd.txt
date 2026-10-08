@@ -1,1 +1,8 @@
-java -jar target/helpdesk-fullstack-0.0.1-SNAPSHOT.jar
+Iniciar o back-end
+
+Abra um terminal na raiz do projeto, com Java instalado, e execute:
+
+.\mvnw.cmd spring-boot:run
+
+A API fica disponível em http://localhost:8080/api.
+Para encerrar, pressione Ctrl+C no terminal.

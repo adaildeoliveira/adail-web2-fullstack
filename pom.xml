@@ -13,7 +13,7 @@
     <artifactId>helpdesk-fullstack</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>helpdesk-fullstack</name>
-    <description>Helpdesk para a N1 de Programação Web II</description>
+    <description>Sistema de gerenciamento de chamados com Spring Boot e React</description>
     <properties>
         <java.version>21</java.version>
         <maven.compiler.release>21</maven.compiler.release>
