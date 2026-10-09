@@ -32,3 +32,6 @@ Thumbs.db
 
 # Materiais de referência das aulas
 /documentacao/
+
+# Cópia local de estilos
+styles-backup.css
